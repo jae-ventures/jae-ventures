@@ -26,18 +26,20 @@ I regularly enjoy the challenge of taking on tasks that push me to acquire new s
 ### 🌇Short Term Goals
 - [x] Complete several online tech courses
 - [x] Begin building my brand
-- [ ] Join online tech and sustainability communities
+- [x] Join online tech and sustainability communities
 - [ ] Make fancy improvements to bio
+- [ ] Read some computer science books or articles
 
 ### 📈Long Term Goals
 - [ ] Begin or join a project related to advancements in sustainability or EVs
-- [ ] Sharpen programming skills with algorithms, design patterns and software achritecture
-- [ ] Become profficient in one or two languages and technologies
+- [ ] Sharpen programming skills with algorithms, design patterns and software architecture
+- [ ] Become proficient in one or two languages and technologies
+- [ ] Remain a continuous learner
 
 ## 🌐Connect on Socials
 > Want to know what I've been up to?
 > 
-> Follow me on [Threads](https://www.threads.net/@jae_ventures) and [Instagram](https://www.instagram.com/jae_ventures?igshid=YzVkODRmOTdmMw==) to connect and hear me talk about _`electic vehicles`_, _`sustainability`_, _`writing`_ _`life`_ and _**everything in between**_!
+> Follow me on [Threads](https://www.threads.net/@jae_ventures) and [Instagram](https://www.instagram.com/jae_ventures?igshid=YzVkODRmOTdmMw==) to connect and hear me talk about _`electic vehicles`_, _`sustainability`_, _`writing`_, _`life`_ and _**everything in between**_!
 - [Instagram | @jae_ventures](https://www.instagram.com/jae_ventures?igshid=YzVkODRmOTdmMw==)
 - [Threads | @jae_ventures](https://www.threads.net/@jae_ventures)
 - [YouTube | @jae_ventures](https://youtube.com/@jae_ventures?si=vCYdzJgTyY9vq51J)

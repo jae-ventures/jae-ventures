@@ -1,21 +1,23 @@
 # ⚡🌍 jae_ventures
-`Software Developer | Writer | Big Idea-er`
+`Software Developer | EV Enthusiasts | Writer`
 ## ✍🏾About Me
-_Welcome to my profile!_ My name is `jae`, and I'm glad you're here.
+_Welcome to my profile!_ My name is `jordan`, and I'm glad you're here.
 
-I have been a software developer working with `.NET` technologies professionally for 2+ years building desktop applications on the frontend and backend. I am currently dabbling in `Kotlin` and `Python` for personal interests in multiplatform development, AI/ML, and data science.
+I have been a software developer working with `.NET` technologies professionally for 4+ years building desktop applications on the frontend and backend. I am currently dabbling in `Kotlin` and `Rust` for personal projects and extensively with `Python` for my OMSCS degree.
 
 I regularly enjoy the challenge of taking on tasks that push me to acquire new skills and further my knowledge of software engineering and computer science principles. My goal as a software developer is to produce and contribute to software solutions that intend to make the experience of living life on earth a good one for a long long time. 🌎🌍🌏
 
 ## 💻Tech Stack
 - Programming Languages
   - C#
-  - Kotlin
   - Python
+  - Rust
+  - Kotlin
 - Developer Tools
   - Visual Studio
   - VS Code
   - IntelliJ
+  - Warp
   - git
 - Areas of Expertise
   - .NET
@@ -23,23 +25,12 @@ I regularly enjoy the challenge of taking on tasks that push me to acquire new s
   - Technical Writing
 
 ## 🎯Developer Goals
-### 🌇Short Term Goals
-- [x] Complete several online tech courses
-- [x] Begin building my brand
-- [x] Join online tech and sustainability communities
-- [ ] Make fancy improvements to bio
-- [ ] Read some computer science books or articles
-
-### 📈Long Term Goals
-- [ ] Begin or join a project related to advancements in sustainability or EVs
+- [ ] Begin or join an open-source project related to advancements in sustainability or EVs
 - [ ] Sharpen programming skills with algorithms, design patterns and software architecture
-- [ ] Become proficient in one or two languages and technologies
+  - [ ] Focus on [green software development practices](https://greensoftware.foundation/)
 - [ ] Remain a continuous learner
 
-## 🌐Connect on Socials
+## 🌐Connect with Me
 > Want to know what I've been up to?
 > 
-> Follow me on [Threads](https://www.threads.net/@jae_ventures) and [Instagram](https://www.instagram.com/jae_ventures?igshid=YzVkODRmOTdmMw==) to connect and hear me talk about _`electic vehicles`_, _`sustainability`_, _`writing`_, _`life`_ and _**everything in between**_!
-- [Instagram | @jae_ventures](https://www.instagram.com/jae_ventures?igshid=YzVkODRmOTdmMw==)
-- [Threads | @jae_ventures](https://www.threads.net/@jae_ventures)
-- [YouTube | @jae_ventures](https://youtube.com/@jae_ventures?si=vCYdzJgTyY9vq51J)
+> Follow me on [LinkedIn](https://www.linkedin.com/in/jordan-a-glover) to connect and hear me talk about _`electic vehicles`_, _`sustainability`_, _`writing`_, _`life`_ and _**everything in between**_ on my blog, [Jordan Ventures](jordanventures.tech)!
